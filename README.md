@@ -11,4 +11,4 @@ To run locally, do the following:
 
 ## screenshot
 
-![nn](https://user-images.githubusercontent.com/12325386/31854102-d94868fa-b6c6-11e7-9a81-58c8d84606b2.JPG)
+![pp](https://user-images.githubusercontent.com/12325386/31854110-f8d2ec22-b6c6-11e7-8098-3cbc36017980.png)
