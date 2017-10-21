@@ -8,3 +8,7 @@ To run locally, do the following:
 * Run `ionic cordova platform rm ios`
 * Run `ionic cordova platform add ios`
 * RUn `ionic cordova run ios` or `ionic cordova run android`
+
+## screenshot
+
+![nn](https://user-images.githubusercontent.com/12325386/31854098-be40d092-b6c6-11e7-99d5-f40af7cb853e.JPG)
